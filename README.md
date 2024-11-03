@@ -36,7 +36,7 @@ Demostración de Funciones y Aplicaciones:
 
 Acceso al Proyecto:
 
-  Descarga el proyecto del siguiente link:
+  Descarga el proyecto del siguiente link: https://github.com/PercyPZ/proj-conversor-moneda.git
 
 
 Tecnologías utilizadas:
